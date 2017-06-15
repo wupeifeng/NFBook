@@ -1,0 +1,44 @@
+﻿@model Model.UserInfo
+
+@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_MyFilmMsater.cshtml";
+}
+
+<html>
+    <head>
+        <title>基本资料</title>
+    </head>
+    <body>
+        <div style="text-align:center;">
+            @using (@Html.BeginForm())
+            {
+                <br />
+                <br />
+                <p>
+                    @Html.ActionLink("基本资料","Supplement","UserInfo")|
+                    @Html.ActionLink("联系方式","Contact","UserInfo")|
+                    @Html.ActionLink("密码保护","PasswordProtection","UserInfo")|
+                    @Html.ActionLink("密码找回","GetBackPassword","UserInfo")
+                </p>
+
+                <br />
+                <p>
+                    联系电话：@Html.TextBoxFor(u=>u.Phone)
+                                @Html.ValidationMessageFor(u=>u.Phone)
+                </p>
+                <p>
+                    QQ/微信：@Html.TextBoxFor(u=>u.QQMSN)
+                                @Html.ValidationMessageFor(u=>u.QQMSN)
+                </p>
+                <p>
+                    通讯地址：@Html.TextBoxFor(u=>u.Address)
+                                    @Html.ValidationMessageFor(u=>u.Address)
+                </p>
+                <br />
+                <p>@ViewBag.Msg</p>
+                <input type="submit" id="btnSave" value="保存" style="width:80px;" />
+            }
+        </div>
+    </body>
+</html>

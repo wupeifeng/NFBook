@@ -1,0 +1,63 @@
+E:\学习文档\二学年\ASP.NET\第一章\上机一\BLL\bin\Debug\BLL.dll
+E:\学习文档\二学年\ASP.NET\第一章\上机一\BLL\bin\Debug\BLL.pdb
+E:\学习文档\二学年\ASP.NET\第一章\上机一\BLL\bin\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET\第一章\上机一\BLL\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第一章\上机一\BLL\bin\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第一章\上机一\BLL\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第一章\上机一\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET\第一章\上机一\BLL\obj\Debug\BLL.dll
+E:\学习文档\二学年\ASP.NET\第一章\上机一\BLL\obj\Debug\BLL.pdb
+E:\学习文档\二学年\ASP.NET\第二章\上机一\BLL\bin\Debug\BLL.dll
+E:\学习文档\二学年\ASP.NET\第二章\上机一\BLL\bin\Debug\BLL.pdb
+E:\学习文档\二学年\ASP.NET\第二章\上机一\BLL\bin\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET\第二章\上机一\BLL\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第二章\上机一\BLL\bin\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第二章\上机一\BLL\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第二章\上机一\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET\第二章\上机一\BLL\obj\Debug\BLL.dll
+E:\学习文档\二学年\ASP.NET\第二章\上机一\BLL\obj\Debug\BLL.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Debug\BLL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Debug\BLL.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\obj\Debug\BLL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\obj\Debug\BLL.pdb
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\BLL\bin\Debug\BLL.dll
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\BLL\bin\Debug\BLL.pdb
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\BLL\bin\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\BLL\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\BLL\bin\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\BLL\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\BLL\obj\Debug\BLL.dll
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\上机一\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\上机一\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\上机一\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\上机一\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\上机一\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\上机一\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\上机一\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上机一\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\上机一\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\吴培锋\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\吴培锋\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\吴培锋\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\吴培锋\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\吴培锋\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\吴培锋\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\吴培锋\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\吴培锋\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\吴培锋\BLL\obj\Debug\BLL.pdb
+E:\ASP MVC练习\吴培锋\BLL\bin\Debug\BLL.dll
+E:\ASP MVC练习\吴培锋\BLL\bin\Debug\BLL.pdb
+E:\ASP MVC练习\吴培锋\BLL\bin\Debug\DAL.dll
+E:\ASP MVC练习\吴培锋\BLL\bin\Debug\Model.dll
+E:\ASP MVC练习\吴培锋\BLL\bin\Debug\DAL.pdb
+E:\ASP MVC练习\吴培锋\BLL\bin\Debug\Model.pdb
+E:\ASP MVC练习\吴培锋\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ASP MVC练习\吴培锋\BLL\obj\Debug\BLL.dll
+E:\ASP MVC练习\吴培锋\BLL\obj\Debug\BLL.pdb

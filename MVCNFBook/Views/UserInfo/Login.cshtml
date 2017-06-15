@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_MyFilmMsater.cshtml";
+}
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Login</title>
+    </head>
+    <body>
+        @using (Html.BeginForm("Login"))
+        {
+            <div style="text-align:center;">
+                <br /><br /><br />
+                <p>
+                    <span style="font-size:x-large;">注册用户登录</span>
+                </p>
+                <p>
+                    帐号(<u>N</u>)：@Html.TextBox("txtUid")&nbsp;
+                    @Html.ActionLink("用户注册","CustomerRegist","UserInfo")
+                </p>
+                <p>
+                    密码(<u>P</u>)：@Html.Password("txtPwd")&nbsp;
+                    @Html.ActionLink("找回密码","GetBackPassword","UserInfo")
+                </p>
+                <p>@ViewBag.Msg</p>
+                <p style="text-align:center;">
+                    <input type="submit" id="btnLogin" value="登录" style="width:80px;" />
+                </p>
+            </div>
+            
+        }
+    </body>
+</html>

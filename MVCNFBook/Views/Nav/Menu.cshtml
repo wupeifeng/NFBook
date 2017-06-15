@@ -1,0 +1,19 @@
+﻿@model List<Model.Category>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Menu</title>
+</head>
+<body>
+    @Html.ActionLink("首 页","Default","Books")
+    @foreach (var item in Model)
+    {
+        <br /><span>@Html.ActionLink(item.CategoryName, "../Books/Default", new { id=item.ID})</span>
+    }
+</body>
+</html>

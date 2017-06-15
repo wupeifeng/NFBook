@@ -1,0 +1,49 @@
+E:\学习文档\二学年\ASP.NET\第一章\上机一\DAL\bin\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET\第一章\上机一\DAL\bin\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第一章\上机一\DAL\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第一章\上机一\DAL\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第一章\上机一\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET\第一章\上机一\DAL\obj\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET\第一章\上机一\DAL\obj\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第二章\上机一\DAL\bin\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET\第二章\上机一\DAL\bin\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第二章\上机一\DAL\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第二章\上机一\DAL\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第二章\上机一\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET\第二章\上机一\DAL\obj\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET\第二章\上机一\DAL\obj\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\bin\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\bin\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\obj\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\obj\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\DAL\bin\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\DAL\bin\Debug\DAL.pdb
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\DAL\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\DAL\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\DAL\obj\Debug\DAL.dll
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\上机一\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\上机一\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\上机一\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\上机一\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\上机一\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上机一\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\上机一\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\吴培锋\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\吴培锋\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\吴培锋\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\吴培锋\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\吴培锋\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\吴培锋\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\吴培锋\DAL\obj\Debug\DAL.pdb
+E:\ASP MVC练习\吴培锋\DAL\bin\Debug\DAL.dll
+E:\ASP MVC练习\吴培锋\DAL\bin\Debug\DAL.pdb
+E:\ASP MVC练习\吴培锋\DAL\bin\Debug\Model.dll
+E:\ASP MVC练习\吴培锋\DAL\bin\Debug\Model.pdb
+E:\ASP MVC练习\吴培锋\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\ASP MVC练习\吴培锋\DAL\obj\Debug\DAL.dll
+E:\ASP MVC练习\吴培锋\DAL\obj\Debug\DAL.pdb

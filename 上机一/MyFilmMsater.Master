@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MyFilmMsater.master.cs" Inherits="上机一.MyFilmMsater" %>
+
+<%@ Register src="Admin/WinForn1.ascx" tagname="WinForn1" tagprefix="uc1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>南方图书网</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table style="margin:0 auto;width:1000px;">
+            <tr>
+                <td colspan="2">
+                    <div style="border-color: inherit; border-width: 1px; text-align:center; width: 1024px; margin:0 auto;background-color:blue;">
+                    <br />
+                    <asp:Label ID="lblLogo" runat="server" Font-Bold="True" Font-Size="XX-Large" Text="南方图书网" ForeColor="White"></asp:Label>
+                        <br />
+                    <br />
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:top;text-align:left;width:240px;border:solid 1px;">
+                    <div>
+                    <asp:HyperLink ID="HyperLink1" runat="server" Text="登录" NavigateUrl="~/Login.aspx"></asp:HyperLink>|
+                    <asp:HyperLink ID="HyperLink2" runat="server" Text="购物车[0]" NavigateUrl="~/ShopCarList.aspx"></asp:HyperLink>|
+                    <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">安全退出</asp:LinkButton>
+                    </div>
+                </td>
+                <td style="vertical-align:top;text-align:left;width:240px;border:solid 1px;">
+                    <div>
+                    <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:top;text-align:left;width:240px;border:solid 1px;">
+                    <div>
+                        <uc1:WinForn1 ID="WinForn11" runat="server" />
+                    </div>
+                </td>
+                <td style="vertical-align:top;text-align:left;width:740px;border:solid 1px;">
+                    <div>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <div style="border-style: solid; border-color: inherit; border-width: 1px; height: 125px; text-align:center;clear:left; width: 1022px; margin:0 auto;">
+                        <br />
+                        <a href="#">南方IT学院</a>版权所有<br />
+                        <br />
+                        服务热线：0756-6811222 0756-6813333<br />
+                        <br />
+                        CopyRight © 1996-2016 South Vocational College. All Rights Reserverd
+
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

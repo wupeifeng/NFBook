@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+  <siteMapNode url="Default.aspx" title=".NET"  description="">
+    <siteMapNode url="Default.aspx" title="C#高级编程"  description="" />
+    <siteMapNode url="Default.aspx" title="ASP.NET从入门到精通"  description="" />
+    <siteMapNode url="Default.aspx" title="WinForm开发100例"  description="" />
+    <siteMapNode url="Default.aspx" title="ASP.NET MVC"  description="" />
+  </siteMapNode>
+  <siteMapNode url="Default.aspx" title="Java"  description="">
+    <siteMapNode url="Default.aspx" title="Java从入门到精通"  description="" />
+    <siteMapNode url="Default.aspx" title="JSP编程实例"  description="" />
+    <siteMapNode url="Default.aspx" title="SSH实战开发"  description="" />
+  </siteMapNode>
+  <siteMapNode url="Default.aspx" title="数据库基础"  description="">
+    <siteMapNode url="Default.aspx" title="SQL Server 2008"  description="" />
+    <siteMapNode url="Default.aspx" title="DBA的成长日记"  description="" />
+  </siteMapNode>
+</siteMap>
+

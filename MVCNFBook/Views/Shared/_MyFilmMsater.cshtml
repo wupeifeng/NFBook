@@ -1,0 +1,63 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>南方图书网</title>
+    <link href="../../CSS/Main.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <table style="margin: 0 auto; width: 1024px;">
+            <tr>
+                <td colspan="2">
+                    <div class="head">
+                        <span id="sp">南方图书网</span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="class">
+                    <div style="padding-left:20px;">
+                        @Html.ActionLink("登录|", "Login", "UserInfo")
+                        @Html.ActionLink("注册|", "CustomerRegist", "UserInfo")
+                        @Html.ActionLink("购物车[0]", "", "")
+                    </div>
+                </td>
+                <td class="path">
+                    <div>
+
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="class">
+                    <div style="padding-left:50px;">
+                        @{Html.RenderAction("Menu", "Nav");}
+                    </div>
+                </td>
+                <td class="path">
+                    <div>
+                        @RenderBody()
+                        @*<asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder>*@
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="border: solid 1px #E0C2C2">
+                    <div>
+                        <p><a href="http://www.gd-nf.com.cn/" target="_blank">南方IT学院</a>版权所有</p>
+                        <p>服务热线：0756-6811222 0756-6813333</p>
+                        <p>CopyRight &copy; 1996-2016 South Vocational College. All Rights Reserved. </p>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

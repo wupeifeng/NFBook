@@ -1,0 +1,32 @@
+E:\学习文档\二学年\ASP.NET\第一章\上机一\Model\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第一章\上机一\Model\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第一章\上机一\Model\obj\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第一章\上机一\Model\obj\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第二章\上机一\Model\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第二章\上机一\Model\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第二章\上机一\Model\obj\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第二章\上机一\Model\obj\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第二章\上机一\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET\第三章\上机一\Model\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\Model\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\Model\obj\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\Model\obj\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\Model\bin\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\Model\bin\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\Model\obj\Debug\Model.dll
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\Model\obj\Debug\Model.pdb
+E:\学习文档\二学年\ASP.NET MVC\第一章\上机一\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上机一\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\上机一\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\上机一\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上机一\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\上机一\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\吴培锋\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\吴培锋\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\吴培锋\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\吴培锋\Model\obj\Debug\Model.pdb
+E:\ASP MVC练习\吴培锋\Model\bin\Debug\Model.dll
+E:\ASP MVC练习\吴培锋\Model\bin\Debug\Model.pdb
+E:\ASP MVC练习\吴培锋\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\ASP MVC练习\吴培锋\Model\obj\Debug\Model.dll
+E:\ASP MVC练习\吴培锋\Model\obj\Debug\Model.pdb

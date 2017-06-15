@@ -1,0 +1,53 @@
+﻿@model List<Model.Book>
+@{
+    ViewBag.Title = "ShopCarList";
+    Layout = "~/Views/Shared/_MyFilmMsater.cshtml";
+}
+
+<table style="width:100%; text-align:center;">
+    <tr>
+        <td style="width:10%;">商品信息</td>
+        <td style="width:30%;">商品名称</td>
+        <td style="width:15%;">单价</td>
+        <td style="width:15%;">数量</td>
+        <td style="width:15%;">金额</td>
+        <td style="width:15%;">操作</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="width:10%;">
+                <img id="@Html.DisplayFor(modelItem => item.ISBN)" Width="60" Height="120" src="#"/>
+            </td>
+            <td style="width:30%;">
+                @Html.ActionLink(item.Title, "BookDetail", new { id=item.ID})
+            </td>
+            <td style="width:15%;">
+               @Html.DisplayFor(ModelItem=>item.Price)
+            </td>
+            <td style="width:15%;">
+                @Html.ActionLink("-", "ShopCarList", new {id=item.ID,ind=ViewBag.count-1})
+                @Html.DisplayFor(ModelItem=>item.Count)
+                @Html.ActionLink("+", "ShopCarList", new {id=item.ID,ind=ViewBag.count+1})
+            </td>
+            <td style="width:15%;">
+               
+            </td>
+            <td style="width:15%;">
+                @Html.ActionLink("删除", "ShopCarList", new {id=item.ID})
+            </td>
+        </tr>
+        
+        <script>
+            //图片路径合成
+            var url = "/Image/BookCover/" +@Html.DisplayFor(modelItem => item.ISBN) +".jpg";
+            document.getElementById("@Html.DisplayFor(modelItem => item.ISBN)").src = url;
+        </script>
+    }
+</table>
+<div style="text-align:right;">
+        <input type="submit" value="结算" Width="150px"  />
+        
+        <h1>总价：@ViewBag.PriceCount</h1>
+        <br />
+</div>

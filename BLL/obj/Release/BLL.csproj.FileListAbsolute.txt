@@ -1,0 +1,9 @@
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Release\BLL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Release\BLL.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Release\DAL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Release\Model.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Release\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\bin\Release\Model.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\obj\Release\BLL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\BLL\obj\Release\BLL.pdb

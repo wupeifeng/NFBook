@@ -1,0 +1,7 @@
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\bin\Release\DAL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\bin\Release\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\bin\Release\Model.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\bin\Release\Model.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\obj\Release\DAL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\DAL\obj\Release\DAL.pdb

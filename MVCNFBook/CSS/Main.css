@@ -1,0 +1,41 @@
+﻿body {
+   font-size:12px;
+   text-align:center;   
+}
+
+dl {
+   color:blue;
+}
+#sp {
+   font-family: 微软雅黑; 
+   font-size: 50px; 
+   color: #CCFFFF;
+}
+.head
+{
+    margin-right:auto;
+    margin-left:auto;
+    height:80px;
+    background-size:auto;    
+    background-image: url('/Image/top.jpg');
+}
+.class
+{
+    vertical-align:top;
+    text-align:left;
+    width:250px;
+    border:solid 1px #E0C2C2;
+}
+.path
+{
+    vertical-align:top;
+    text-align:left;
+    width:774px;
+    border:solid 1px #e0c2c2;
+}
+.txt
+{
+    border-style: none none solid none; 
+    border-width: 0px 0px 1px 0px;
+    border-color: #C0C0C0;
+}

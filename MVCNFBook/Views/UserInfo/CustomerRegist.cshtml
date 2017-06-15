@@ -1,0 +1,33 @@
+﻿@model Model.UserInfo
+@{
+    ViewBag.Title = "CustomerRegist";
+    Layout = "~/Views/Shared/_MyFilmMsater.cshtml";
+}
+<div style="text-align:center;">
+    @using (Html.BeginForm())
+    {
+        <h2>用户注册</h2>
+        <p>
+            帐&nbsp;&nbsp;号(<u>N</u>)：@Html.TextBoxFor(u=>u.LoginName)
+                                @Html.ValidationMessageFor(u=>u.LoginName)
+        </p>
+        <p>
+            密&nbsp;&nbsp;码(<u>P</u>)：@Html.PasswordFor(u=>u.Password)
+                                @Html.ValidationMessageFor(u=>u.Password)
+        </p>
+        <p>
+            重复密码(<u>R</u>)：@Html.PasswordFor(u=>u.Password)
+                                @Html.ValidationMessageFor(u=>u.Password)
+        </p>
+        <p>
+            电子邮箱(<u>E</u>)：@Html.TextBoxFor(u=>u.Email)
+                                @Html.ValidationMessageFor(u=>u.Email)
+        </p>
+        <p>
+            @ViewBag.Msg
+        </p>
+        <p>
+            <input type="submit" value="注册" style="width:80px;" />
+        </p>
+    }
+</div>

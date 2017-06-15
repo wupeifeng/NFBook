@@ -1,0 +1,11 @@
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\bin\上机一.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\bin\上机一.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\bin\BLL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\bin\DAL.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\bin\Model.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\bin\BLL.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\bin\DAL.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\bin\Model.pdb
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\obj\Release\NFBook.csprojResolveAssemblyReference.cache
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\obj\Release\上机一.dll
+E:\学习文档\二学年\ASP.NET\第三章\上机一\上机一\obj\Release\上机一.pdb
